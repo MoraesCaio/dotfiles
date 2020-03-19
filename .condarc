@@ -1,0 +1,5 @@
+channels:
+  - conda-forge
+  - defaults
+allow_conda_downgrades: false
+changeps1: False
